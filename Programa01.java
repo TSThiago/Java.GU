@@ -1,3 +1,5 @@
+package geek;
+
 //Variáveis
 
 public class Programa01 {
